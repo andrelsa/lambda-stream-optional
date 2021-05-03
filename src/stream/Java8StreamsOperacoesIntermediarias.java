@@ -3,7 +3,7 @@ package stream;
 import java.util.Arrays;
 import java.util.List;
 
-public class Java8Streams {
+public class Java8StreamsOperacoesIntermediarias {
     public static void main(String[] args) {
         List<Integer> lista = Arrays.asList(1, 5, 8, 9, 1, 4, 7, 6, 6, 9, 9);
 
@@ -53,6 +53,7 @@ public class Java8Streams {
 
         // Map
         // a lista original não é modificada
+        // operação intermediária - é possível ser várias operações antes de fechar o stream
         // no exemplo, o método Map realiza a transformação dos dados da lista
         System.out.println("==============METODO MAP==============");
         lista.stream()
