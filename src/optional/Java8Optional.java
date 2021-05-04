@@ -1,7 +1,6 @@
 package optional;
 
 import java.util.Optional;
-import java.util.stream.Stream;
 
 public class Java8Optional {
     public static void main(String[] args) {
