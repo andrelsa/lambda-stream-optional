@@ -28,6 +28,5 @@ public class Java8Lambda {
                     return n % 2 == 0;
                 })
                 .forEach(System.out::println);
-
     }
 }
