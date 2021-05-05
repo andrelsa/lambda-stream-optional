@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.List;
 
-public class Java8MethodReference {
+public class Java8_Method_Reference {
     public static void main(String[] args) {
 
         // Quando temos dois ponto (::) é o Method Reference
@@ -29,7 +29,7 @@ public class Java8MethodReference {
 
         System.out.println("====================COM METHOD REFERENCE====================");
         list.stream()
-                .map(Java8MethodReference::multipliquePorDois)
+                .map(Java8_Method_Reference::multipliquePorDois)
                 .forEach(System.out::println);
 
         System.out.println("========================================METHOD REFERENCE PARA CONSTRUTORES========================================");

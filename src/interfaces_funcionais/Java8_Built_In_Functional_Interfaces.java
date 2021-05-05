@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Stream;
 
-public class Java8BuiltInFunctionalInterfaces {
+public class Java8_Built_In_Functional_Interfaces {
     public static void main(String[] args) {
 
         System.out.println("========================SUPPLIER========================");

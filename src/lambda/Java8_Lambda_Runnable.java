@@ -1,6 +1,6 @@
 package lambda;
 
-public class Java8LambdaRunnable {
+public class Java8_Lambda_Runnable {
     public static void main(String[] args) {
         // JAVA 8: FUNÇÕES LAMBDA
 

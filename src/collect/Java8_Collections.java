@@ -3,7 +3,7 @@ package collect;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class Java8Collections {
+public class Java8_Collections {
     public static void main(String[] args) {
 
         System.out.println("===============List()===============");

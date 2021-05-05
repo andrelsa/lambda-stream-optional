@@ -3,7 +3,7 @@ package stream;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Java8StreamsOperacoesFinais {
+public class Java8_Streams_Operacoes_Finais {
     public static void main(String[] args) {
         List<Integer> lista = Arrays.asList(1, 5, 8, 9, 1, 4, 7, 6, 6, 9, 9);
 

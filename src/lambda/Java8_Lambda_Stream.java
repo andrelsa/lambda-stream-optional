@@ -3,7 +3,7 @@ package lambda;
 import java.util.Arrays;
 import java.util.List;
 
-public class Java8LambdaStream {
+public class Java8_Lambda_Stream {
     public static void main(String[] args) {
         // JAVA 8: FUNÇÕES LAMBDA
 

@@ -2,7 +2,7 @@ package optional;
 
 import java.util.Optional;
 
-public class Java8Optional {
+public class Java8_Optional {
     public static void main(String[] args) {
 
         // Optional pode conter ou não um valor, por isso é chamado de Optional

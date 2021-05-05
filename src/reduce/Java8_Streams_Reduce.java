@@ -6,7 +6,7 @@ import java.util.Optional;
 import java.util.OptionalDouble;
 import java.util.stream.DoubleStream;
 
-public class Java8StreamsReduce {
+public class Java8_Streams_Reduce {
     public static void main(String[] args) {
         String s = "Lorem Ipsum is simply dummy text";
         String[] split = s.split(" ");

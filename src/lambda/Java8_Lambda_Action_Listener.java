@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Java8LambdaActionListener {
+public class Java8_Lambda_Action_Listener {
     public static void main(String[] args) {
         // JAVA 8: FUNÇÕES LAMBDA
 

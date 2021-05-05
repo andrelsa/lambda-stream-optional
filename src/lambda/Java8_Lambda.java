@@ -2,7 +2,7 @@ package lambda;
 
 import java.util.stream.IntStream;
 
-public class Java8Lambda {
+public class Java8_Lambda {
     public static void main(String[] args) {
         // Várias formas de se escrever uma função lambda no JAVA
 

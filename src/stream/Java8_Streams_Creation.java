@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class Java8StreamsCreation {
+public class Java8_Streams_Creation {
     public static void main(String[] args) throws IOException {
 
         System.out.println("====================Collection====================");

@@ -3,7 +3,7 @@ package collect;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Java8StreamsCollect1 {
+public class Java8_Streams_Collect {
     public static void main(String[] args) {
 
         List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6);
